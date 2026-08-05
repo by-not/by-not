@@ -14,7 +14,6 @@
     <img src="https://img.shields.io/badge/Language-Pawn-orange?style=for-the-badge&logo=c" alt="Pawn" />
     <img src="https://img.shields.io/badge/Mods-CLEO%20%2F%20Lua%20%2F%20.ASI-purple?style=for-the-badge" alt="Mods" />
     <img src="https://img.shields.io/badge/Platform-SA--MP%20%2F%20open.mp-blue?style=for-the-badge" alt="SAMP" />
-    <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code" alt="VS Code" />
   </p>
 
 </div>
