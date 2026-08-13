@@ -33,7 +33,7 @@
 
   ### 📬 Dónde encontrarme
 
-  <a href="https://discord.com">
+  <a href="https://discord.com/users/517221047506960406">
     <img src="https://img.shields.io/badge/Discord-by__not-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://github.com/by-not">
