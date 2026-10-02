@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- Banner o GIF tipo GTA SA (puedes reemplazar el link por uno tuyo si prefieres) -->
-  <img src="https://media.giphy.com/media/0Wzkc9iirQ4G7beMpt/giphy.gif" width="100%" alt="GTA SA Vibe" />
-
   <h1>@by-not 👋</h1>
 
   <p>
